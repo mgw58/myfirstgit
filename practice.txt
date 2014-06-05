@@ -1,1 +1,2 @@
-This is the first line of the first file that I'm writing 
+This is the first line of the first file that I'm writing
+Now I'm adding a second line to the first file 
